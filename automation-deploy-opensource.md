@@ -32,7 +32,7 @@ graph TB
     subgraph "Infrastructure"
         DOCKER["🐳 Docker Engine"]
         NGINX["🌐 Nginx Proxy"]
-        OMNI["📁 Omnibot OpenSource"]
+        OMNI["📁 OpenSource"]
     end
     
     UI --> GATEWAY
